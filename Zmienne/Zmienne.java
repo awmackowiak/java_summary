@@ -24,8 +24,8 @@ public class Zmienne {
 
     private static String imie = "Arthur";   // Definicja zmiennej typu String. HINT: Wszystko co znajdować się będzie w "" trakotwane jest jako wartość String(ciąg znaków)
     private static int wiek = 30;            // Definicja zmiennej wiek, która jest warości integer (int, licza całkowita). HINT: Jak widać liczby reprezentowane są bez jakichkolwiek ""
-    private static double wyplata = 1000.10; // Definicja zmiennej "wyplata", która przechowuje wartość "double". HINT: Przy definicja wartości "double" separatorem liczb dziesietnych jest "." (kropka), a nie "'" (przecinek)
-    private static boolean pelnoletniosc = true;    // Definicja wartości "pełnoletność" typu logicznego PRAWDA/FAUSZ (boolean).
+    private static double wyplata = 1000.10; // Definicja zmiennej "wyplata", która przechowuje wartość "double". HINT: Przy definicja wartości "double" separatorem liczb dziesietnych jest "." (kropka), a nie "," (przecinek)
+    private static boolean pelnoletniosc = true;    // Definicja wartości "pełnoletność" typu logicznego PRAWDA/FAŁSZ (boolean).
 
     public static void main(String[] args) {
        /*
